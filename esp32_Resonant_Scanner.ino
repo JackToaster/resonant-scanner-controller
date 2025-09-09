@@ -9,8 +9,8 @@
 #include <SPIFFS.h>
 
 
-const char *ssid = "Pretzel Bakery";
-const char *password = "s0urd0ugh";
+const char *ssid = "xxxxxxxx";
+const char *password = "xxxxxxxx"; // fill in your SSID/Password here
 
 AsyncWebServer* server;
 
